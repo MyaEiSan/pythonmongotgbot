@@ -189,7 +189,7 @@ Deploy to server (render.com)
 
     (iii) Render ( Click New - Web Service )
         Source code = your repo 
-        Name = pythonmongotgbot 
+        Name = pythonmongotgbotappbymes 
         ProjectOptional = No project / No environment 
         Language = Python 3 
         Branch = main 
@@ -200,7 +200,7 @@ Deploy to server (render.com)
 
         Environment Variables 
         TELEGRAM_TOKEN = "8338910383:AAEgXdl6lc7PKlYHXYihSp_7fICwZ39An2o"
-        MONGO_URI = mongodb://localhost:27017/
+        MONGO_URI = mongodb+srv://user1:P@ssw0rdUser1@cluster0.jkmewwl.mongodb.net/
 
         click "Deploy Web Service"
 
